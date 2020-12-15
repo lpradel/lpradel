@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/-@lukaspradel-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lukaspradel)](https://twitter.com/lukaspradel) [![LinkedIn](https://img.shields.io/badge/lukaspradel-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/lukaspradel)](https://www.linkedin.com/in/lukaspradel)
 
-Nice to meet you! My name is Lukas. I'm a consultant at [Conciso](https://conciso.de/). I like running, working out, video games, open source software, the Ruhrpott and currywurst, science fiction, whisk(e)y and riding my motorcycles 🏍️.
+Nice to meet you! My name is Lukas. I'm a consultant at [Conciso](https://conciso.de/) from 🇩🇪 Dortmund, Germany. I like running, working out, video games, open source software, the Ruhrpott and currywurst, science fiction, whisk(e)y and riding my motorcycles 🏍️.
 
 ## My GitHub stats
 <a href="https://github.com/lpradel">
