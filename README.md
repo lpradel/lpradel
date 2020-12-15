@@ -4,8 +4,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpradel" />
 </a>
 <a href="https://github.com/lpradel">
-  <img align="center" style="margin-left: 30px;" src="https://github-readme-stats.vercel.app/api?username=lpradel&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpradel&show_icons=true&count_private=true" />
 </a>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lpradel)  |  ![](https://github-readme-stats.vercel.app/api?username=lpradel&show_icons=true&count_private=true)
 
 <!--
 **lpradel/lpradel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
