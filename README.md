@@ -1,10 +1,8 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, pleased to meet you!
 
-![Twitter Badge](https://img.shields.io/twitter/url?url=https://twitter.com/lukaspradel&label=%40lukaspradel&style=social&link=https://twitter.com/lukaspradel) 
-
 [![Twitter](https://img.shields.io/badge/-@lukaspradel-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lukaspradel)](https://twitter.com/lukaspradel)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/lukaspradel)(https://www.linkedin.com/in/lukaspradel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/lukaspradel)](https://www.linkedin.com/in/lukaspradel)
 
 
 <a href="https://github.com/lpradel">
