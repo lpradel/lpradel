@@ -2,7 +2,9 @@
 
 ![Twitter Badge](https://img.shields.io/twitter/url?url=https://twitter.com/lukaspradel&label=%40lukaspradel&style=social&link=https://twitter.com/lukaspradel) ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)(https://twitter.com/lukaspradel)
 
-[![Twitter Badge](https://img.shields.io/badge/-@lukaspradel-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link==https://twitter.com/lukaspradel)](=https://twitter.com/lukaspradel) 
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
+[![Twitter Badge](https://img.shields.io/badge/-@lukaspradel-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lukaspradel)](=https://twitter.com/lukaspradel) 
 
 <a href="https://github.com/lpradel">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpradel" />
