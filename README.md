@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpradel" />
 </a>
 <a href="https://github.com/lpradel">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lpradel&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpradel&show_icons=true&count_private=true" />
 </a>
 
 Solarized dark             |  Solarized Ocean
