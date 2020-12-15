@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Lukas!
 
-[![Twitter](https://img.shields.io/badge/-@lukaspradel-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lukaspradel)](https://twitter.com/lukaspradel) [![LinkedIn](https://img.shields.io/badge/lukaspradel-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/lukaspradel)](https://www.linkedin.com/in/lukaspradel)
+[![Twitter](https://img.shields.io/badge/-@lukaspradel-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lukaspradel)](https://twitter.com/lukaspradel) [![LinkedIn](https://img.shields.io/badge/lukaspradel-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/lukaspradel)](https://www.linkedin.com/in/lukaspradel) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=lpradel.lpradel)
 
 Nice to meet you! My name is Lukas. I'm a consultant at [Conciso](https://conciso.de/) from 🇩🇪 Dortmund, Germany. I like running, working out, video games, open source software, the Ruhrpott and currywurst, science fiction, whisk(e)y and riding my motorcycles 🏍️.
 
