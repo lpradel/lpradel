@@ -4,7 +4,7 @@
 
 Nice to meet you! My name is Lukas. I'm a consultant at [Conciso](https://conciso.de/) from 🇩🇪 Dortmund, Germany. I like running, working out, video games, open source software, the Ruhrpott and currywurst, science fiction, whisk(e)y and riding my motorcycles 🏍️.
 
-## My GitHub stats
+## 📈 My GitHub stats
 <a href="https://github.com/lpradel">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpradel" />
 </a>
