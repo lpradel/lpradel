@@ -1,4 +1,4 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, pleased to meet you!
 
 <a href="https://github.com/lpradel">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpradel" />
